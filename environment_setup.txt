@@ -1,0 +1,12 @@
+( In Terminal CMD )
+Download and install:
+                Anaconda
+
+Create Virtual Environment: 
+                conda create -p venv python==3.12 
+
+Activate Venv: 
+                conda activate venv/
+
+Deactivate Venv: 
+                conda deactivate 

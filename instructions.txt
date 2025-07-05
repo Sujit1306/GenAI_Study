@@ -1,0 +1,15 @@
+ipykernel                               # Enables Jupyter kernels for virtual environments
+pydantic                                # Data validation using Python type hints
+langchain                               # Framework to build LLM-based apps
+langchain-community                     # Extra tools/loaders for LangChain
+python-dotenv                           # Load environment variables from .env file
+langchain-groq                          # Use Groq models with LangChain
+pypdf                                   # Read and extract data from PDFs
+bs4                                     # Parse HTML and XML (BeautifulSoup)
+arxiv                                   # Fetch papers and metadata from arXiv
+pymupdf                                 # PDF parsing and text extraction
+langchain-text-splitters                # Split text into chunks for processing
+mistralai                               # SDK to access Mistral AI models
+chromadb                                # Lightweight local vector database
+faiss-cpu                               # Fast vector search (CPU version)
+langchain-chroma                        # LangChain integration with ChromaDB
