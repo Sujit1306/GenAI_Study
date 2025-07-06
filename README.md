@@ -3,16 +3,12 @@
 This repository contains my notes and hands-on experiments with Generative AI tools and frameworks.
 
 ### 🔍 Topics Covered
-- **Pydantic**: 
-- **LangChain**: Agents, Chains, Prompts
+- **Pydantic**: Data Validation
+- **LangChain Components**: Ingestion, Transformation, Embedding, Storage and Retrieval
 - **Ollama**: Local LLMs, Embeddings, Retrieval
 
-### 📂 Structure
-- `1-Pydantic/` → 
-- `2-Langchain/` → 
-- `3-OpenAIandOllama/` → 
-- `requirements.txt` → All required Python packages
-- `instructions.txt` → Reason for each Python package
-
 ### ⚠️ Note
-`venv/` is intentionally ignored from version control.
+- `requirements.txt` → All required Python packages
+- `instructions.txt` → Requirement of Python packages
+- `environment_setup.txt` → Steps to initialize a Virtual Environment
+- `venv/ and .env` → Intentionally ignored from version control.
