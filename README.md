@@ -3,9 +3,9 @@
 This repository contains my notes and hands-on experiments with Generative AI tools and frameworks.
 
 ### 🔍 Topics Covered
-- **Pydantic**: Data Validation
-- **LangChain Components**: Ingestion, Transformation, Embedding, Storage and Retrieval
-- **Ollama**: Local LLMs, Embeddings, Retrieval
+- **Pydantic**: Introduction to various Models for Data Validation
+- **LangChain**: Components of langchain (Ingestion, Transformation, ...) w.r.t a **RAG** example
+- **Introduction to building GenAI Apps**: Components used while building a GenAI App (prompts, chains, parsers, streamlit)
 
 ### ⚠️ Note
 - `requirements.txt` → All required Python packages
