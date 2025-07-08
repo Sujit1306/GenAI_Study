@@ -13,3 +13,4 @@ mistralai
 chromadb
 faiss-cpu
 langchain-chroma 
+streamlit

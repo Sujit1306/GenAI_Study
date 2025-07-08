@@ -13,3 +13,4 @@ mistralai                               # SDK to access Mistral AI models
 chromadb                                # Lightweight local vector database
 faiss-cpu                               # Fast vector search (CPU version)
 langchain-chroma                        # LangChain integration with ChromaDB
+streamlit                               # Hosting apps on the web
