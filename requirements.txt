@@ -14,3 +14,8 @@ chromadb
 faiss-cpu
 langchain-chroma 
 streamlit
+fastapi
+uvicorn
+starlette
+langserve
+sse_starlette 
