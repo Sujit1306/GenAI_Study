@@ -14,8 +14,10 @@ chromadb                                # Lightweight local vector database
 faiss-cpu                               # Fast vector search (CPU version)
 langchain-chroma                        # LangChain integration with ChromaDB
 streamlit                               # Hosting apps on the web
-fastapi                                 # Required for using LangServe
-uvicorn                                 # Required for using LangServe
-starlette                               # Required for fastapi
-langserve 
-sse_starlette
+fastapi                                 # Build APIs for LangChain apps  
+uvicorn                                 # Run FastAPI server  
+starlette                               # FastAPI’s core toolkit  
+langserve                               # Serve LangChain chains via API  
+sse_starlette                           # Enable streaming (SSE) in FastAPI  
+langchain-huggingface                   # Use HuggingFace models in LangChain  
+sentence-transformers                   # Generate text embeddings  

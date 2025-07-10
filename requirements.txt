@@ -19,3 +19,5 @@ uvicorn
 starlette
 langserve
 sse_starlette 
+langchain-huggingface
+sentence-transformers
