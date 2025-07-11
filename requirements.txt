@@ -21,3 +21,4 @@ langserve
 sse_starlette 
 langchain-huggingface
 sentence-transformers
+langgraph
