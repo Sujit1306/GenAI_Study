@@ -1,0 +1,8 @@
+{
+    "dependencies":["."],
+    "graphs":{
+      "gemma_agent":"./gemma_agent.py:agent"
+    },
+    "env":"../.env"
+  
+  }
