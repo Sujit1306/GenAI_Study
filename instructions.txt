@@ -5,7 +5,7 @@ langchain-community                     # Extra tools/loaders for LangChain
 python-dotenv                           # Load environment variables from .env file
 langchain-groq                          # Use Groq models with LangChain
 pypdf                                   # Read and extract data from PDFs
-bs4                                     # Parse HTML and XML (BeautifulSoup)
+bs4                                     # HTML/XML parsing(BeautifulSoup)
 arxiv                                   # Fetch papers and metadata from arXiv
 pymupdf                                 # PDF parsing and text extraction
 langchain-text-splitters                # Split text into chunks for processing
@@ -21,3 +21,7 @@ langserve                               # Serve LangChain chains via API
 sse_starlette                           # Enable streaming (SSE) in FastAPI  
 langchain-huggingface                   # Use HuggingFace models in LangChain  
 sentence-transformers                   # Generate text embeddings  
+langgraph                               # Build LLM agent workflows
+wikipedia                               # Fetch Wikipedia article data
+langgraph-cli[inmem]                    # CLI to run LangGraph (in-memory)
+tiktoken                                # Token counter for LLMs
