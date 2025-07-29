@@ -24,3 +24,4 @@ sentence-transformers
 langgraph
 wikipedia
 langgraph-cli[inmem]
+tiktoken
